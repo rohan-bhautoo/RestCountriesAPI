@@ -1,0 +1,14 @@
+D:\RestCountries\bin\Debug\net6.0\RestCountries.exe
+D:\RestCountries\bin\Debug\net6.0\RestCountries.deps.json
+D:\RestCountries\bin\Debug\net6.0\RestCountries.runtimeconfig.json
+D:\RestCountries\bin\Debug\net6.0\RestCountries.dll
+D:\RestCountries\bin\Debug\net6.0\RestCountries.pdb
+D:\RestCountries\obj\Debug\net6.0\RestCountries.GeneratedMSBuildEditorConfig.editorconfig
+D:\RestCountries\obj\Debug\net6.0\RestCountries.AssemblyInfoInputs.cache
+D:\RestCountries\obj\Debug\net6.0\RestCountries.AssemblyInfo.cs
+D:\RestCountries\obj\Debug\net6.0\RestCountries.csproj.CoreCompileInputs.cache
+D:\RestCountries\obj\Debug\net6.0\RestCountries.dll
+D:\RestCountries\obj\Debug\net6.0\refint\RestCountries.dll
+D:\RestCountries\obj\Debug\net6.0\RestCountries.pdb
+D:\RestCountries\obj\Debug\net6.0\RestCountries.genruntimeconfig.cache
+D:\RestCountries\obj\Debug\net6.0\ref\RestCountries.dll
